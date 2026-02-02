@@ -124,12 +124,4 @@ Column name variants (spaces, casing) are accepted.
 | GET | `/api/datasets/<id>/summary/` | Summary only |
 | GET | `/api/datasets/<id>/pdf/` | PDF report |
 
-## Git
 
-```bash
-git init
-git add .
-git commit -m "Chemical Equipment Visualizer"
-git remote add origin <repo-url>
-git push -u origin main
-```
